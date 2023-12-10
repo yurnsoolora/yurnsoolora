@@ -1,4 +1,4 @@
-### Hello! I'm YURNSOO 😄
+### Hello, I'm YurnSoo 😄
 
 
 ### ⚡ TECH STACK ⚡
