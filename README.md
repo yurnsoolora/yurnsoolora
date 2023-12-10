@@ -1,6 +1,4 @@
-<div align="center">
-  Hello, I'm YurnSoo 😄
-</div>
+### Hello, I'm YurnSoo 😄
 
 <div align="center">
 ### ⚡ TECH STACK ⚡
